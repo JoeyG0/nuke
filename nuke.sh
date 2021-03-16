@@ -28,6 +28,7 @@ function print_rand_msg
 	msg[17]="nuke is not for the faint-of-heart."
 	msg[18]="nuke is a command for hot people."
 	msg[19]="nuke dukem."
+	msg[20]="nuke is the only command endorsed by 10 out of 10 eschatologists."
 
 	
 	size=${#msg[@]}
